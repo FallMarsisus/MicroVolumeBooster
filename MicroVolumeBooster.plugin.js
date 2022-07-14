@@ -1,8 +1,8 @@
 /**
  * @name MicroVolumeBooster
  * @version 0.0.1
- * @description Monte le son oh yeah
- * @author Marsoko
+ * @description Allows you to set the volume of your microphone higher
+ * @author Marsisus and drako
  *  
  */
 
