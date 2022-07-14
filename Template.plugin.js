@@ -1,8 +1,8 @@
 /**
- * @name Example
+ * @name MicroVolumeBooster
  * @version 0.0.1
- * @description Example Description
- * @author Example
+ * @description Monte le son oh yeah
+ * @author Marsoko
  *  
  */
 
