@@ -15,7 +15,8 @@
 
 //code here
    BdApi.alert("KOUKOU LE CHOU", "PROUT");
-   var SliderMicro = document.getElementsByTagName("AUDIO_SET_INPUT_VOLUME");
+   var monterLeSon = BdApi.findModuleByDisplayName("AUDIO_SET_INPUT_VOLUME");
+   BdApi.alert(monterLeSon);
    //linkJS("MaBarreDeVolume", "");
 //stop coding
 }
