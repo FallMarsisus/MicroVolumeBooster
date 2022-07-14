@@ -14,7 +14,7 @@
     start() {
 
 //code here
-   BdApi.alert("KOUKOU");
+   BdApi.alert("KOUKOU LE CHOU");
 
 //stop coding
 }
