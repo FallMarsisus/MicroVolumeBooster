@@ -14,8 +14,7 @@
     start() {
 
 //code here
-   BdApi.alert("KOUKOU LE CHOU");
-   BdApi.linkCSS("GrosTexte", "font-size : 100px;");
+   BdApi.alert("KOUKOU LE CHOU", "PROUT");
    //linkJS("MaBarreDeVolume", "");
 //stop coding
 }
